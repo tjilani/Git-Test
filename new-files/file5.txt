@@ -1,3 +1,7 @@
 hier eine Datei mit dem Namen file5.txt
 
+<<<<<<< HEAD
 hier steht eine Änderung! Und noch eine Veränderung, welche wir im Master-Ast durchgeführt haben.
+=======
+hier steht eine Änderung! Diese Zeile haben wir im BR-3 Ast geändert.
+>>>>>>> BR-3
