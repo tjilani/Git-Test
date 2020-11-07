@@ -1,1 +1,3 @@
 Das ist die Datei mit dem Namen file6.txt
+
+hier eine Ergänzung, die wir auf dem lokalen Ast erstellt haben.
