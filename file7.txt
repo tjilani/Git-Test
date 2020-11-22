@@ -1,1 +1,2 @@
-Zeile ersetzt im Master-Ast.
+
+bla blaaaa bla (diese Zeile wurde im Feature-2 Ast erstellt)
