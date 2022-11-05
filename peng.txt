@@ -3,3 +3,4 @@ hier steht Text in der neuen Datei peng.txt im Remote Rep von Feature-3
 LOKAL - nun ergänze ich die Datei in meinem lokalen Rep - LOKAL
 
 LOKAL - nun ergänze ich die Datei in meinem lokalen Rep - LOKAL
+nun mache ich eine Änderung dieser Datei im Remote Rep. Remote Remote Remote
